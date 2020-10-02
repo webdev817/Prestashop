@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>How to improve customer experience: Top 10 trends and techniques</title>
+    <link>https://www.prestashop.com/en/blog/customer-experience-trends</link>
+    <description>The COVID-19 pandemic has upended the retail industry, forcing the closure of physical stores and causing uncertainty for the future of the in-store experience.</description>
+     <pubDate>Wed, 30 Sep 2020 17:42:59 +0200</pubDate>
+ <dc:creator>Neha Sharma</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/customer-experience-trends</guid>
+  </item>
+  <item>
+    <title>The importance of translation in the internationalization of your ecommerce</title>
+    <link>https://www.prestashop.com/en/blog/translation-internationalization-ecommerce</link>
+    <description>International expansion is an especially important factor for the growth of sales from your online store.</description>
+     <pubDate>Mon, 28 Sep 2020 16:33:53 +0200</pubDate>
+ <dc:creator>Sara Lázaro EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/translation-internationalization-ecommerce</guid>
+  </item>
+  <item>
+    <title>PSD2: EU mandatory strong authentication by the end of 2020: be ready!</title>
+    <link>https://www.prestashop.com/en/blog/psd2-strong-authentication</link>
+    <description> </description>
+     <pubDate>Fri, 25 Sep 2020 16:25:49 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/psd2-strong-authentication</guid>
+  </item>
+  <item>
+    <title>Marketplaces: what are the main difficulties encountered by retailers, and what are the solutions?</title>
+    <link>https://www.prestashop.com/en/blog/marketfire-marketplaces-retailers</link>
+    <description>During the release of the Marketfire e-commerce solution module on the PrestaShop Addons Ma</description>
+     <pubDate>Tue, 15 Sep 2020 17:49:48 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/marketfire-marketplaces-retailers</guid>
+  </item>
+  <item>
+    <title>What is an ecommerce payment gateway?</title>
+    <link>https://www.prestashop.com/en/blog/ecommerce-payment-gateway</link>
+    <description>If you want your website to accept payments, you need a payment gateway.</description>
+     <pubDate>Mon, 14 Sep 2020 18:03:57 +0200</pubDate>
+ <dc:creator>Arina Drucioc EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/ecommerce-payment-gateway</guid>
+  </item>
+  <item>
+    <title>Extend and develop your customer relationship after purchase</title>
+    <link>https://www.prestashop.com/en/blog/customer-relationship-after-purchase</link>
+    <description>Thank your customer for purchasing your products with a personalized note to surprise them. This way you develop a true, long lasting and loyal customer relationship. </description>
+     <pubDate>Thu, 10 Sep 2020 18:44:17 +0200</pubDate>
+ <dc:creator>Romain De Vera EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/customer-relationship-after-purchase</guid>
+  </item>
+  <item>
+    <title>Getting your email marketing ready for the end-of-year sales</title>
+    <link>https://www.prestashop.com/en/blog/email-marketing-holiday</link>
+    <description>Learn how to make the most out of sales events like Black Friday and Cyber Monday by preparing your email marketing beforehand. </description>
+     <pubDate>Wed, 09 Sep 2020 15:17:14 +0200</pubDate>
+ <dc:creator>Aaron Wiseman</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/email-marketing-holiday</guid>
+  </item>
+  <item>
+    <title>Vulnerability identified on a few PrestaShop modules and themes</title>
+    <link>https://www.prestashop.com/en/blog/vulnerability-september-2020</link>
+    <description>An attack against a few PrestaShop stores was reported to us.</description>
+     <pubDate>Wed, 09 Sep 2020 15:16:51 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/vulnerability-september-2020</guid>
+  </item>
+  <item>
+    <title>Subscribers and loyal customers: a combination that makes consumers and retailers happy</title>
+    <link>https://www.prestashop.com/en/blog/subscription-loyalty-retailers</link>
+    <description>We have already discussed the issue of the strong digitisation trend in our country in several blog articles.</description>
+     <pubDate>Fri, 28 Aug 2020 14:39:42 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/subscription-loyalty-retailers</guid>
+  </item>
+  <item>
+    <title>Seven best practices in after-sales management</title>
+    <link>https://www.prestashop.com/en/blog/best-practices-after-sales</link>
+    <description>How do you manage your customers once they made a purchase? Here are the 7 things to do to improve the shopping experience and optimise retention.</description>
+     <pubDate>Fri, 28 Aug 2020 14:36:01 +0200</pubDate>
+ <dc:creator>luca mastroianni</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/best-practices-after-sales</guid>
+  </item>
+  </channel>
+</rss>
